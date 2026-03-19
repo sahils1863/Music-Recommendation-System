@@ -3,11 +3,11 @@ Built a music recommendation system using KNN and Deezer API that suggests simil
 
 ## Project Structure
 
-├── app.py                 # Main Streamlit application
-├── df_cleaned.pkl         # Preprocessed dataset
-├── feature_matrix.npy     # Feature vectors for songs
-├── knn_model.pkl          # Trained KNN model
-├── README.md              # Project documentation
+- app.py                 # Main Streamlit application
+- df_cleaned.pkl         # Preprocessed dataset
+- feature_matrix.npy     # Feature vectors for songs
+- knn_model.pkl          # Trained KNN model
+- README.md              # Project documentation
 
 ## How It Works
 1. User selects a song
